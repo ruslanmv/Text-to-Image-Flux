@@ -1,0 +1,9 @@
+torch
+transformers==4.48.0
+accelerate
+invisible_watermark
+xformers
+sentencepiece
+spaces
+gradio
+git+https://github.com/huggingface/diffusers.git
